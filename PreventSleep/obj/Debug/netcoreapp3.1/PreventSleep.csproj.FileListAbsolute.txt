@@ -1,0 +1,13 @@
+C:\Users\Andrew\OneDrive - SNHU\Code\C#\PreventSleep\bin\Debug\netcoreapp3.1\PreventSleep.exe
+C:\Users\Andrew\OneDrive - SNHU\Code\C#\PreventSleep\bin\Debug\netcoreapp3.1\PreventSleep.deps.json
+C:\Users\Andrew\OneDrive - SNHU\Code\C#\PreventSleep\bin\Debug\netcoreapp3.1\PreventSleep.runtimeconfig.json
+C:\Users\Andrew\OneDrive - SNHU\Code\C#\PreventSleep\bin\Debug\netcoreapp3.1\PreventSleep.runtimeconfig.dev.json
+C:\Users\Andrew\OneDrive - SNHU\Code\C#\PreventSleep\bin\Debug\netcoreapp3.1\PreventSleep.dll
+C:\Users\Andrew\OneDrive - SNHU\Code\C#\PreventSleep\bin\Debug\netcoreapp3.1\PreventSleep.pdb
+C:\Users\Andrew\OneDrive - SNHU\Code\C#\PreventSleep\obj\Debug\netcoreapp3.1\PreventSleep.csprojAssemblyReference.cache
+C:\Users\Andrew\OneDrive - SNHU\Code\C#\PreventSleep\obj\Debug\netcoreapp3.1\PreventSleep.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\OneDrive - SNHU\Code\C#\PreventSleep\obj\Debug\netcoreapp3.1\PreventSleep.AssemblyInfoInputs.cache
+C:\Users\Andrew\OneDrive - SNHU\Code\C#\PreventSleep\obj\Debug\netcoreapp3.1\PreventSleep.AssemblyInfo.cs
+C:\Users\Andrew\OneDrive - SNHU\Code\C#\PreventSleep\obj\Debug\netcoreapp3.1\PreventSleep.dll
+C:\Users\Andrew\OneDrive - SNHU\Code\C#\PreventSleep\obj\Debug\netcoreapp3.1\PreventSleep.pdb
+C:\Users\Andrew\OneDrive - SNHU\Code\C#\PreventSleep\obj\Debug\netcoreapp3.1\PreventSleep.genruntimeconfig.cache
